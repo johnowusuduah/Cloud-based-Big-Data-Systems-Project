@@ -1,4 +1,4 @@
-# Data Engineering Systems Cloud SQL Project using AWS Athena
+# Cloud-Based-Big-Data-Systems-Project
 
 First, this project showcases how AWS Athena is used to query a public dataset, in this case, housing data in King County - Seattle hosted on Kaggle. Afterwards, the relationship between the average price of house and the year houses were constructed was investigated. The scope of the dataset is limited to homes sold between May 2014 and May 2015.
 
